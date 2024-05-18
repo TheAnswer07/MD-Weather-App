@@ -94,4 +94,15 @@ text-align: center;
     margin-top: -6px;
 }
 
-/* API Key: e7898dccf3b46bbe0dc9223bf376fa98 */
+.weather {
+    display: none;
+}
+
+.error {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+}
+
